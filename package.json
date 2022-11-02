@@ -1,0 +1,15 @@
+{
+  "name": "firsttask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "sass scss/style.scss scss/style.css"
+  },
+  "author": "sunita shrestha",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.2",
+    "sass": "^1.55.0"
+  }
+}
